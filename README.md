@@ -1,5 +1,3 @@
-I'll create a comprehensive README that includes all the components and references the related files:
-
 ```markdown:README.md
 # PDE-Sim: GPU-Accelerated Parallel PDE Solver
 
