@@ -1,0 +1,34 @@
+# Exclude PETSc source/build directories
+/petsc-*
+/petsc/
+
+# Ignore PETSc-generated files
+*.petscrc
+petsc*.log
+petsc*.tmp
+
+# Standard exclusion for build artifacts
+build/
+bin/
+*.o
+*.d
+*.so
+*.dylib
+*.a
+*.h
+*.c
+*.cu
+*.yaml
+*.log
+
+# Ignore local runtime data
+output/
+*.vtu
+*.pvtu
+*.h5
+*.xmf
+
+# Preserve our source files with PETSc usage
+!src/
+!include/
+

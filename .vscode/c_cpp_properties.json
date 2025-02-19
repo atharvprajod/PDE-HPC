@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/path/to/linux_cuda_headers"  // Mapped network drive or copied headers
+            ],
+            "defines": [
+                "__CUDA_ARCH__=800"  // Target architecture (e.g., A100=800)
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+} 
