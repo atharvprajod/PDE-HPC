@@ -1,4 +1,3 @@
-```markdown:README.md
 # PDE-Sim: GPU-Accelerated Parallel PDE Solver
 
 A high-performance parallel solver for partial differential equations using MPI, CUDA, and PETSc. Designed for large-scale fluid dynamics simulations with mixed-precision computing and domain decomposition.
