@@ -197,14 +197,6 @@ nvidia-smi dmon -s pucvt
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors
-
-Your Name - Initial work
-
 ## Acknowledgments
 
 - PETSc development team for their excellent solver library
