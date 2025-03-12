@@ -1,6 +1,3 @@
-I'll create a comprehensive README that includes all the components and references the related files:
-
-```markdown:README.md
 # PDE-Sim: GPU-Accelerated Parallel PDE Solver
 
 A high-performance parallel solver for partial differential equations using MPI, CUDA, and PETSc. Designed for large-scale fluid dynamics simulations with mixed-precision computing and domain decomposition.
@@ -199,14 +196,6 @@ nvidia-smi dmon -s pucvt
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors
-
-Your Name - Initial work
 
 ## Acknowledgments
 
